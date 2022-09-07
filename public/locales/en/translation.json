@@ -1,0 +1,18 @@
+{
+  "Username": "Username",
+  "Require":"Require",
+  "Question": "Question",
+  "Answer":"Answer",
+  "Confirm":"Confirm",
+  "Submit":"Submit",
+  "LOGIN":"Welcome Back!",
+  "REGISTER":"Create an Account!",
+  "Next_step": "Next step",
+  "FORGET_PASSWORD":"Forgot Your Password?",
+  "RESET_PASSWORD":"Reset Your Password?",
+  "Username_min_6":"Username must be greater than or equal to 6 characters",
+  "Password_min_6":"Password must be greater than or equal to 6 characters",
+  "Question_min_6":"Question must be greater than or equal to 6 characters",
+  "Answer_min_6":"Answer must be greater than or equal to 6 characters",
+  "Password_equal":"The two passwords are not the same,"
+}

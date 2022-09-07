@@ -1,0 +1,18 @@
+{
+  "Username": "用户名",
+  "Password": "密码",
+  "Question": "问题",
+  "Answer":"答案",
+  "Confirm":"确认",
+  "Require":"必须",
+  "Submit":"提交",
+  "LOGIN":"登陆!",
+  "REGISTER":"注册!",
+  "Next_step": "下一步",
+  "FORGET_PASSWORD":"忘记密码!",
+  "RESET_PASSWORD":"重设密码!",
+  "Username_min_6":"用户名必须大于或等于 6 个字符",
+  "Password_min_6":"密码必须大于或等于 6 个字符",
+  "Question_min_6":"问题必须大于或等于 6 个字符",
+  "Answer_min_6":"答案必须大于或等于 6 个字符"
+}
